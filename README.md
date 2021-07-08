@@ -1,1 +1,7 @@
-https://github.com/E869120/kyopro_educational_90への回答
+https://github.com/E869120/kyopro_educational_90 への回答です.
+
+- p004
+
+事前にすべての列の列方向の合計値と行方向の合計値を求めておき,
+(i, j)に対応した列の合計値+行の合計値-A[i][j]によって1つ1つを計算
+するよりも短い時間で求めることができます.
